@@ -1,0 +1,3 @@
+/content/detectTheBottles/labels/val/12.txt
+/content/detectTheBottles/labels/val/soda-cans-soft-drinks-AP.txt
+/content/detectTheBottles/labels/val/val121.txt
