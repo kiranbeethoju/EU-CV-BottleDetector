@@ -4,9 +4,29 @@
 
 #### Challeges it can tackle
 It can detect red labelled dr.pepper bottles and almost all fanta bottles
+### Before
+<img src="https://github.com/kiranbeethoju/EU-CV-BottleDetector/blob/975ac481c24fc0482410d983a7678ca9afb95bb8/detectTheBottles/testImg.png" width="1000"></a>
+&nbsp
+<br>
+### After
+<img src="https://github.com/kiranbeethoju/EU-CV-BottleDetector/blob/975ac481c24fc0482410d983a7678ca9afb95bb8/detectTheBottles/detected.jpg" width="1000"></a>
+&nbsp
+
+## Credits
+Thanks to P.J.Reddie and Ultralytics
+YoloV3, YoloV5 
+
 
 ### Solution 1_b
-
 1_b: Solution 
 It works as expected.
+
+### Before
+<img src="https://github.com/kiranbeethoju/EU-CV-BottleDetector/blob/main/Solution-1_b/Task-1b.png" width="1000"></a>
+&nbsp
+<br>
+### After
+<img src="https://github.com/kiranbeethoju/EU-CV-BottleDetector/blob/main/Solution-1_b/Task-1b_Output.png" width="1000"></a>
+
+&nbsp
 
