@@ -13,6 +13,8 @@ It can detect red labelled dr.pepper bottles and almost all fanta bottles
 <img src="https://github.com/kiranbeethoju/EU-CV-BottleDetector/blob/975ac481c24fc0482410d983a7678ca9afb95bb8/detectTheBottles/detected.jpg" width="1000"></a>
 &nbsp;
 
+mAP@ 0.50 IOU threshold
+
 ### Credits
 Thanks to P.J.Reddie and Ultralytics
 YoloV3, YoloV5 
