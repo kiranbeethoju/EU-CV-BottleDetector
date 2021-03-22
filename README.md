@@ -3,7 +3,7 @@
 ### Solution 1_a
 1_a: Bottle detector solution ipynb, open it on colab and run the inference cell(before that import the required libraries and run the cell which is responsible to clone required repo)
 
-We can build a simple object detection with cv2.template matching, but rely on Yolov5, so I used YoloV5 for object detection.
+We can build a simple object detection system using cv2 template matching, but I trust Yolov5, previously I build had done similar object detection project for mask detection using yolov3, but now I used YoloV5 for this demo project.
 
 - Prepared training set with 47 images(annotated with LabelImg)
 - val set contains 3 images.
