@@ -21,7 +21,9 @@ It can detect red labelled dr.pepper bottles and almost all fanta bottles
 ### Metrics 
 
 2 classes 0.659 mAP@0.5
+
 f - mAP 0.373
+
 d - mAP 0.945
 
 ### Credits
